@@ -4,4 +4,9 @@ body {
     color: #fff;
     background-color: #FFE4B5;
 }
+#header-nav{
+    background-color:#D87093;
+    border-radius:0;
+    border:0;
+}
 
