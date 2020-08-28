@@ -87,5 +87,9 @@ body {
     border: 1px solid #7d1913;
 }
 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
+}
+
 
 
