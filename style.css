@@ -12,3 +12,7 @@ body {
 .navbar-band{
     padding-top:25px;
 }
+.navbar-brand a:hover,.navbar-brand a:focus{
+    text-decoration:none;
+}
+
